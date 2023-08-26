@@ -1,0 +1,6 @@
+[submodule "BaseStation"]
+	path = BaseStation
+	url = E:/project/Weather-Stations-Monitoring/BaseStation
+[submodule "WeatherStation"]
+	path = WeatherStation
+	url = E:/project/Weather-Stations-Monitoring/WeatherStation
