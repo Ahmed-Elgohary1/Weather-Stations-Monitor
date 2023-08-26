@@ -1,6 +1,6 @@
 [submodule "BaseStation"]
 	path = BaseStation
-	url = E:/project/Weather-Stations-Monitoring/BaseStation
+	url = https://github.com/Ahmed-Elgohary1/BaseStation
 [submodule "WeatherStation"]
 	path = WeatherStation
-	url = E:/project/Weather-Stations-Monitoring/WeatherStation
+	url = https://github.com/Ahmed-Elgohary1/WeatherStation
